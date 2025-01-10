@@ -1,0 +1,2 @@
+[e.detail is undefined]
+handleChange()@https://rakuten-sec-cs--240904.sandbox.lightning.force.com/auraCmpDef?_au=3731_lPEALCeKECwTPu8pcdAi-Q&_c=false&_density=VIEW_TWO&_dfs=c&_ff=DESKTOP&_l=true&_l10n=ja&_lrmc=-386269907&_style=1378434868&aura.app=markup://one:one&aura.mode=PROD&_def=markup://c:TOB004&_uid=LATEST:27:2741
