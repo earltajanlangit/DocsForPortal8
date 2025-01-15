@@ -1,1 +1,1 @@
-\\oa-dfs01\ベンダー共有\共通\23-00290 TOB復代理人対応\03.カイマ\出荷判定\事前_LibreOffice本番確認
+<button aria-live="off" type="button" title="OK" class="slds-button slds-button_neutral uiButton--default uiButton--neutral uiButton forceActionButton" aria-label="" data-aura-rendered-by="1519:0" data-aura-class="uiButton--default uiButton--neutral uiButton forceActionButton"><!--render facet: 1520:0--><span dir="ltr" class=" label bBody" data-aura-rendered-by="1522:0">OK</span><!--render facet: 1517:0--></button>
